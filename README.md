@@ -4,7 +4,7 @@
 
 This repository provides the code and  metadata necessary to replicate  analyses reported in the paper:
 “Pivoting as an Adaptive Strategy to Geopolitical Tensions in U.S. Science”
-Moxin Li(XJTU), Yifang Ma(SUSTC), Yang Wang(XJTU), and Dashun Wang(NU)
+\nMoxin Li(XJTU), Yifang Ma(SUSTC), Yang Wang(XJTU), and Dashun Wang(NU)
 
 ## Data Availability
 To ensure transparency and reproducibility, all datasets used in this study are archived on the Harvard Dataverse.
@@ -14,7 +14,8 @@ You can access the full dataset here: https://doi.org/
 
 ## Dataset Descriptions:
 The following datasets are available for download via the Harvard Dataverse:
-###data.csv
+
+### data.csv
 - The core dataset used for the main regression analyses and for generating the survival analysis in Figure 2.
 
 ### Fig3_event_study_data.csv
